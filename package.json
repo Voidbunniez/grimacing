@@ -1,0 +1,11 @@
+{
+    "name": "grimacing",
+    "version": "1.0.0",
+    "description": "sam is worth grimacing over forever",
+    "main": "bot.js",
+    "author": "Void",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.4.2"
+    }
+}
